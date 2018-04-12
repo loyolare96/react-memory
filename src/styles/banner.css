@@ -1,0 +1,20 @@
+.jumbotron {
+    background: url("../assets/images/banner.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 410px;
+    margin-top: -100px;
+    margin-bottom: 0px;
+    padding: 0px;
+}
+
+h1 {
+    font-family: myFirstFont;
+    text-align: center;
+    border-top: 30px;
+}
+
+@font-face {
+    font-family: myFirstFont;
+    src: url('./font.otf');
+}

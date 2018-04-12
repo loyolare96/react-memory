@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "Eldigan",
+        "image": "https://i.imgur.com/TzHtnzV.png"
+    },
+    {
+        "id": 2,
+        "name": "Nanna",
+        "image": "https://i.imgur.com/9sWOm1d.png"
+    },
+    {
+        "id": 3,
+        "name": "Arvis",
+        "image": "https://i.imgur.com/zZ56nvQ.png"
+    },
+    {
+        "id": 4,
+        "name": "Seliph",
+        "image": "https://i.imgur.com/f4fapx7.png"
+    },
+    {
+        "id": 5,
+        "name": "Reinhardt",
+        "image": "https://i.imgur.com/IhUWhCH.png"
+    },
+    {
+        "id": 6,
+        "name": "Julia",
+        "image": "https://i.imgur.com/mE7TQgV.png"
+    },
+    {
+        "id": 7,
+        "name": "Lachesis",
+        "image": "https://i.imgur.com/ntpFPG8.png"
+      },
+      {
+        "id": 8,
+        "name": "Ayra",
+        "image": "https://i.imgur.com/p8ZwzpS.png"
+      },
+      {
+        "id": 9,
+        "name": "Deirdre",
+        "image": "https://i.imgur.com/hlwnaOL.png"
+      },
+      {
+        "id": 10,
+        "name": "Sigurd",
+        "image": "https://i.imgur.com/JrHnYwN.png"
+      },
+      {
+        "id": 11,
+        "name": "Olwen",
+        "image": "https://i.imgur.com/VWkMrqU.png"
+      },
+      {
+        "id": 12,
+        "name": "Leif",
+        "image": "https://i.imgur.com/9sCNV3a.png"
+      }
+]
